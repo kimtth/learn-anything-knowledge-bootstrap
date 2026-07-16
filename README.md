@@ -28,6 +28,6 @@ The script is safe to run again: it creates [vault/attachments](vault/attachment
 
 ## Obsidian Augmented Knowledge Graph
 
-Convert summaries to an interconnected Obsidian vault with 7,600+ semantic wikilinks, nested tags, and 1,590 embedded images.
+Convert summaries to an interconnected Obsidian vault with 5,600+ semantic wikilinks and 1,600+ embedded images.
 
 ![Obsidian Graph View](docs/obsidian-demo.gif)
