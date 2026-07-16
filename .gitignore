@@ -1,0 +1,5 @@
+# Vault-local Windows junctions that point to the shared root attachment store.
+vault/attachments/
+vault_ko-kr/attachments/
+vault_ko-kr/.obsidian
+vault/.obsidian
